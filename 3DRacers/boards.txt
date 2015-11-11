@@ -1,0 +1,19 @@
+
+pilot.name=3DRacers Pilot
+pilot.upload.protocol=avr109
+pilot.upload.maximum_size=28672
+pilot.upload.speed=57600
+pilot.upload.disable_flushing=true
+pilot.bootloader.low_fuses=0xff
+pilot.bootloader.high_fuses=0xd8
+pilot.bootloader.extended_fuses=0xce
+pilot.bootloader.path=caterina
+pilot.bootloader.file=Caterina-pilot.hex
+pilot.bootloader.unlock_bits=0x3F
+pilot.bootloader.lock_bits=0x2F
+pilot.build.mcu=atmega32u4
+pilot.build.f_cpu=8000000L
+pilot.build.vid=0x1209
+pilot.build.pid=0xFA57
+pilot.build.core=arduino:arduino
+pilot.build.variant=pilot
