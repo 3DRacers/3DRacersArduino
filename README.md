@@ -1,18 +1,15 @@
-3DRacers Pilot Board Support for Arudino 1.0.X
+3DRacers Pilot Board Support for Arudino >= 1.5.X
 ===========================
 
-# Installation Instructions
+## Installation Instructions
 
 
-To add this support to your Arduino IDE, simply copy this folder into your hardware directory in one of two
-places:
-* the actual Arduino directory
-* inside your Sketchbook directory
-* **Please note: This will only work under Arduino IDE versions 1.0.1 - 1.0.5**
+### Notes
+	
+* **Please note: This will only work under Arduino IDE versions 1.5 and up.**
+* **For Arduino 1.0.X Compatibility**: Please download our [release for Arduino 1.0.6 and earlier](https://github.com/3DRacers/3DRacersArduino/tree/Arduino1.0.X).
+* Information on compiling and programming the bootloader can be found in the bootloader directory.
 
-For Arduino version >= 1.5.2, please see the [3DRacer Pilot Board Driver repository](https://github.com/3DRacers/PilotBoard)
-
-Information on compiling and programming the bootloader can be found in the bootloader directory.
 
 ## 3DRacers PilotBoard
 The first 3D Printed Racing Game, Smartphone-driven and Arduino-compatible
