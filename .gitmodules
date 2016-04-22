@@ -1,0 +1,3 @@
+[submodule "3DRacers/avr/libraries/Lib3DRacers"]
+	path = 3DRacers/avr/libraries/Lib3DRacers
+	url = https://github.com/3DRacers/Lib3DRacers
