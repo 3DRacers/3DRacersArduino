@@ -1,6 +1,6 @@
-[submodule "3DRacers/avr/libraries/Lib3DRacers"]
-	path = 3DRacers/avr/libraries/Lib3DRacers
-	url = https://github.com/3DRacers/Lib3DRacers
 [submodule "3DRacers/avr/libraries/Lib3DRacersVendors"]
 	path = 3DRacers/avr/libraries/Lib3DRacersVendors
-	url = https://github.com/3DRacers/Lib3DRacersVendors
+	url = https://github.com/3DRacers/Lib3DRacersVendors.git
+[submodule "3DRacers/avr/libraries/Lib3DRacers"]
+	path = 3DRacers/avr/libraries/Lib3DRacers
+	url = https://github.com/3DRacers/Lib3DRacers.git
